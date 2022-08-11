@@ -7,11 +7,17 @@
 ### 1.将此项目文件放置到根目录 *mycomponents* 文件下
 
 |- mycomponents
+
     |- f2-canvas-to-dd
+
         |- lib
+
         |- f2-canvas.acss
+
         |- f2-canvas.axml
+
         |- f2-canvas.js
+        
         |- f2-canvas.json
 
 ### 2.使用组件
